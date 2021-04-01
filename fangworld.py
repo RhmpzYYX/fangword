@@ -3,6 +3,7 @@ import csv
 from lxml import etree
 import json
 
+#todo
 
 first_row = ['城市', '指数', '环比(%)', '指数', '环比(%)', '指数', '环比(%)', '指数', '环比(%)']
 
